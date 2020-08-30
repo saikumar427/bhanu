@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97e30207e6f5ea7c4bac693638aa7afe",
+    "revision": "490ce0bd2aca9ffbcdeb5d4baa1e3d45",
     "url": "/bhanu/index.html"
   },
   {
-    "revision": "161e8bd7d9575dee28c3",
+    "revision": "94cfdfb5fa0fc1937590",
     "url": "/bhanu/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bhanu/static/js/2.ae2a761f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "161e8bd7d9575dee28c3",
-    "url": "/bhanu/static/js/main.784ffeb3.chunk.js"
+    "revision": "94cfdfb5fa0fc1937590",
+    "url": "/bhanu/static/js/main.44ee0173.chunk.js"
   },
   {
     "revision": "36b462fddfdd8258ea58",
     "url": "/bhanu/static/js/runtime-main.56756903.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/bhanu/static/media/logo.5d5d9eef.svg"
   }
 ]);
